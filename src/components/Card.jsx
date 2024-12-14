@@ -3,7 +3,7 @@ import { FaFileAlt } from "react-icons/fa";
 import { RiDoubleQuotesR } from "react-icons/ri";
 import { ImQuotesLeft } from "react-icons/im";
 import { IoMdClose } from "react-icons/io";
-import{motion} from "framer-motion"
+import{motion} from "framer-motion";
 
 function card({data}) {
   return (
